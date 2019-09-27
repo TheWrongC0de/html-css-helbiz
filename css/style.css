@@ -5,10 +5,18 @@ body{
   margin-right: 20%;
 }
 header{
-  height: 15%;
-  background-color: black;
+  height: 30;
   width: 100%;
+  background-color: black;
+}
+.container{
+  height: 10%;
+}
+
+.row h6{
+  display: inline-block;
 }
 .container2{
-  height: 10%
+  background-image: url("img/sfondo1.jpg");
+  height: 20%; 
 }
